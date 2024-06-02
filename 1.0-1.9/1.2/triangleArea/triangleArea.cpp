@@ -9,9 +9,14 @@ Difficulty: 1.2
   Per-Magnus managed to measure the base and height of the triangle with a ruler. Given this, compute the area of the triangular cake.
 
 -Input:
+The input consists of a single line with two integers for height and base of triangle:
+    1 <= h <= 1000
+    1 <= b <= 1000
 
 
 -Output:
+Output a single number, the area of the triangle. Your answer must be correct within an absolute or relative error of 10^-7.
+    .0000001
 
 ---------------
 
