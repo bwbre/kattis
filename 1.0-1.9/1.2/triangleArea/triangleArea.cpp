@@ -21,6 +21,24 @@ Output a single number, the area of the triangle. Your answer must be correct wi
 ---------------
 
 Notes: 
+simply calculate area of triangle 
+**does not mention what type of triangle, I am assuming it's a right triangle based on the examples**
+(1/2)*b*h
 
+    initialize base and height
+    calculate
+    print
 
 */
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int b=0, h=0; // base and height
+    cin >> b >> h;
+    cout << (b*h)/2;
+
+    return 0;
+}
