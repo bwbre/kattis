@@ -1,5 +1,9 @@
-# kattis
-for kattis problems
+Brendan Womer
 
-For some reason i cannot sync with github if i dont run this command:
-    echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf > /dev/null
+<summary> Container for all the kattis problems I have worked on, or are working on </summary> <br/>
+
+<br/>
+Description: 
+<br/>
+Organized by Kattis difficulty
+<br/><br/>
