@@ -32,13 +32,17 @@ simply calculate area of triangle
 */
 
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
 int main() {
     int b=0, h=0; // base and height
+    float area = 0;
+
     cin >> b >> h;
-    cout << (b*h)/2;
+    area = (b*h)/2;
+    cout <<  area;
 
     return 0;
 }
